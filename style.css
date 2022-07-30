@@ -28,15 +28,16 @@ div#card img{
 div#card #card-text p{
     font-size: 15px;
     font-weight: 400;
-    opacity: 0.5;
+    color: hsl(220, 15%, 55%);
     padding: 10px;
 }
 
 div#card #card-text h2{
     font-weight: 700;
     padding-top: 15px;
+    color: hsl(218, 44%, 22%);
 }
 
 .border{
-    border-radius: 20px;
+    border-radius: 15px;
 }
